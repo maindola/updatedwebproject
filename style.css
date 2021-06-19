@@ -1,0 +1,19 @@
+html,
+ body {
+        height: 100%;
+        font-family: monospace;
+        font-weight: 900;
+        font-size: xxx-large;
+        text-align: center;
+        padding-top: 100px;
+        background-color: rgb(140, 94, 184);
+        }
+.box{
+    margin-top: 250px;
+    margin-left: 450px;
+    border: 5px solid rgb(204, 226, 79);
+    border-radius: 8px;
+    height: 100px;
+    width: 360px;
+    padding: 20px;
+}
